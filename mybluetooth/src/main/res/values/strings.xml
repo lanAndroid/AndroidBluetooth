@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBluetooth</string>
+    <string name="RESOURCE">操作</string>
+    <string name="RESOURCE2">选项</string>
+    <string name="RESOURCE3">配对</string>
+    <string name="RESOURCE4">传输文件</string>
+</resources>
